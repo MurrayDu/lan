@@ -1,5 +1,7 @@
 # lan 支持android平台局域网通讯的框架
-一使用方法：
+博客地址：https://blog.csdn.net/dxh040431104/article/details/92789934
+
+使用方法：
 服务端：
       
       TcpService tcpService = new TcpService(this);
@@ -60,8 +62,6 @@
  
     subTcpClient.connect(device.getIp());   
 
-
-    
     
     
     
